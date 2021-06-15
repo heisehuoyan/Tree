@@ -16,8 +16,8 @@ class Node {
     this.left = null;
   }
 }
-// const node = new Node(1, 3);
-// console.log(node);
+const node = new Node(1, 3);
+console.log(node);
 
 class BST {
   constructor() {
